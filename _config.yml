@@ -1,2 +1,10 @@
 title: If & Else
+
+# Imort the theme
 theme: jekyll-theme-chirpy
+
+# Language
+lang: en
+
+# Timezone
+timezone: Africa/Johannesburg
