@@ -1,8 +1,3 @@
----
-layout: default
-title: "My Blog"
----
-
 # Welcome to My Blog!
 
 Sharing my thoughts, ideas, and projects. Check out the latest posts below:
